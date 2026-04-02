@@ -1,0 +1,28 @@
+{
+    "id": "99DA7C40",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1764915945763.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "f3cc963dea104a2d8bc3f381ff1c21c9",
+        "name": "reg_model",
+        "title": "reg_model",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1764915945763,
+    "read_only": false,
+    "read_only_alternatives": []
+}
